@@ -8,7 +8,7 @@ export default class Orphanage {
     id: number;
 
     @Column()
-    name: string;
+    nme: string;
 
     @Column()
     latitude: number;
